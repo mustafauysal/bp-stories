@@ -3,6 +3,9 @@ BuddyPress Stories
 
 Stories are everywhere in these days, now including BuddyPress :P
 
+### Preview
+![Preview](https://raw.githubusercontent.com/mustafauysal/bp-stories/master/assets/img/preview.gif)
+
 
 ## Credits
 
